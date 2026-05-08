@@ -101,4 +101,4 @@ st.info("Utiliza este botón para generar un reporte de instalación o mantenimi
 URL_FORMULARIO_TECNICO = "https://script.google.com/macros/s/AKfycbx7O0xl4rWhBtDrQudH90dJA4q8lCNM2ndKShe5MLA7Jtl9P-4JbxEkMrkQEygyOSwT6A/exec"
 
 # Este botón abrirá el formulario en blanco en una nueva pestaña (Con estilo TS PROESA)
-st.link_button("🛠️ ABRIR FORMULARIO TÉCNICO", URL_FORMULARIO_TECNICO, use_container_width=True)
+st.link_button(" ABRIR FORMULARIO TÉCNICO", URL_FORMULARIO_TECNICO, use_container_width=True)
