@@ -37,7 +37,7 @@ st.divider()
 st.info("Selecciona el módulo al que deseas acceder. Los datos se guardarán automáticamente en tu base de datos.")
 
 # --- ENLACES AL APPS SCRIPT (Asegúrate de poner la URL de tu implementación final) ---
-URL_BASE_SCRIPT = "https://script.google.com/macros/s/AKfycbzOvjEoxI3OW_4eJRL_rEXFWbDRvdSGlDqCCqXike4i1Ss1In0uBU1tk-zXQ_hVbRmA/exec"
+URL_BASE_SCRIPT = "https://script.google.com/macros/s/AKfycbzkI5LVU8JMWdrHwgsDgjCwVpNhp0YqSn1XnC5TPUcKUc_HKAOmR3BbgWNRWfkS7If_/exec"
 
 URL_CONTACTOS = f"{URL_BASE_SCRIPT}?page=contactos"
 URL_VISITAS = f"{URL_BASE_SCRIPT}?page=visitas"
